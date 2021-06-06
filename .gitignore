@@ -1,0 +1,5 @@
+
+src/output/*.txt
+
+node_modules/
+
