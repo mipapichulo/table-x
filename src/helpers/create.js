@@ -17,7 +17,7 @@ const setTitle = (str) => {
 const createTableFile = async (base, limit, show, color) => {
 	try{
 		let data = '', consol = '';
-		const dir = join(__dirname, '..', 'output');
+		const dir = join(__dirname, '..', '..', 'output');
 		const file = `b${base}-l${limit}.txt`;
 		setColor(color);
 		
