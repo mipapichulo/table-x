@@ -7,4 +7,4 @@
   -l, --limit    The limit of table                       [number] [default: 12]
   -s, --show     Show information of archive          [boolean] [default: false]
   -c, --color    Show color in the information        [boolean] [default: false]
-
+```
