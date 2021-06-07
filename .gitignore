@@ -1,5 +1,6 @@
 
-src/output/*.txt
+output/*.txt
 
 node_modules/
+
 
